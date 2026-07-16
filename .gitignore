@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GorillaCinema
+/obj
+/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs
